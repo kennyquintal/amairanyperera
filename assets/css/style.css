@@ -131,7 +131,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #0b2341;
+  color: #142f42;
 }
 
 #header .logo img {
@@ -272,7 +272,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #0b2341;
+  color: #142f42;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -329,7 +329,7 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #0b2341;
+  color: #142f42;
 }
 
 .navbar-mobile a:hover,
@@ -602,7 +602,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0f2f57;
+  color: #193a51;
 }
 
 /*--------------------------------------------------------------
@@ -688,7 +688,7 @@ section {
   line-height: 24px;
   display: block;
   font-weight: 700;
-  color: #0b2341;
+  color: #193a51;
   margin-left: 50px;
 }
 
@@ -703,14 +703,14 @@ section {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #164682;
+  color: #193a51;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
 }
 
 .counts .count-box a:hover {
-  color: #2169c4;
+  color: #193a51;
 }
 
 /*--------------------------------------------------------------
@@ -727,7 +727,7 @@ section {
 .why-us .content h3 {
   font-weight: 400;
   font-size: 34px;
-  color: #123a6d;
+  color: #193a51;
 }
 
 .why-us .content h4 {
@@ -777,7 +777,7 @@ section {
   font-weight: 500;
   padding-right: 30px;
   outline: none;
-  color: #0b2341;
+  color: #142f42;
   cursor: pointer;
 }
 
@@ -805,7 +805,7 @@ section {
 }
 
 .why-us .accordion-list a.collapsed {
-  color: #0b2341;
+  color: #142f42;
 }
 
 .why-us .accordion-list a.collapsed:hover {
@@ -989,7 +989,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #0b2341;
+  color: #142f42;
 }
 
 .services .icon-box p {
@@ -1109,7 +1109,7 @@ section {
 --------------------------------------------------------------*/
 .cta {
   padding: 80px 0;
-  background: #0b2341;
+  background: #142f42;
 }
 
 .cta h3 {
@@ -1160,7 +1160,7 @@ section {
   font-weight: 600;
   line-height: 1;
   text-transform: uppercase;
-  color: #0b2341;
+  color: #142f42;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
@@ -1194,11 +1194,11 @@ section {
   font-size: 18px;
   color: #fff;
   font-weight: 600;
-  color: #0b2341;
+  color: #142f42;
 }
 
 .portfolio .portfolio-item .portfolio-info p {
-  color: #1a5298;
+  color: #193a51;
   font-size: 14px;
   margin-bottom: 0;
 }
@@ -1209,7 +1209,7 @@ section {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #123a6d;
+  color: #193a51;
 }
 
 .portfolio .portfolio-item .portfolio-info .preview-link:hover,
@@ -1405,7 +1405,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info-box {
-  color: #0b2341;
+  color: #142f42;
   text-align: center;
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
   padding: 20px 0 30px 0;
@@ -1555,7 +1555,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 600;
-  color: #0b2341;
+  color: #142f42;
 }
 
 .breadcrumbs ol {
@@ -1574,7 +1574,7 @@ section {
 .breadcrumbs ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #123a6d;
+  color: #193a51;
   content: "/";
 }
 
@@ -1582,7 +1582,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #071527;
+  background: #0d1e2a;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -1594,7 +1594,7 @@ section {
 
 #footer .footer-top .footer-info {
   margin-bottom: 15px;
-  background: #05101e;
+  background: #0d1e2a;
   border-top: 4px solid #e1bc78;
   text-align: center;
   padding: 30px 20px;
@@ -1627,7 +1627,7 @@ section {
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  background: #0a1e38;
+  background: #0d1e2a;
 }
 
 #footer .footer-top .social-links a:hover {
@@ -1716,7 +1716,7 @@ section {
 }
 
 #footer .copyright {
-  border-top: 1px solid #0f2f57;
+  border-top: 1px solid #142f42;
   text-align: center;
   padding-top: 30px;
 }
