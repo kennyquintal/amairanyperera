@@ -1,25 +1,16 @@
-/**
-* Template Name: Multi - v4.8.1
-* Template URL: https://bootstrapmade.com/multi-responsive-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
+/*-----*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
 
 a {
-  color: #ed502e;
+  color: #e1bc78;
   text-decoration: none;
 }
 
 a:hover {
-  color: #f1775d;
+  color: #ffc04c;
   text-decoration: none;
 }
 
@@ -51,7 +42,7 @@ h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #ed502e;
+  border: 6px solid #e1bc78;
   border-top-color: white;
   border-radius: 50%;
   width: 60px;
@@ -90,7 +81,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ed502e;
+  background: #e1bc78;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -104,7 +95,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #f06f54;
+  background: #ffc04c;
   color: #fff;
 }
 
@@ -117,7 +108,8 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: linear-gradient(to right, #142f42, #e1bc78);
+  opacity: 80%;
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
@@ -175,7 +167,7 @@ h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 15px;
-  color: #0b2341;
+  color: #fff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -187,11 +179,15 @@ h6 {
   margin-left: 5px;
 }
 
+.active {
+  color: #e1bc78;
+}
+
 .navbar a:hover,
-.navbar .active,
+.navbar,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ed502e;
+  color: #e1bc78;
 }
 
 .navbar .getstarted,
